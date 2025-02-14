@@ -1,3 +1,5 @@
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/nberdy/SuperMarioBros-CSharp-Remake/badge)](https://scorecard.dev/viewer/?uri=github.com/{owner}/{repo})
+
 &nbsp;
 <div id="header" align="center">
   <img src="https://github.com/Jack-Development/SuperMarioBros-CSharp-Remake/blob/main/Resources/logo.png" width="300"/>
