@@ -2,7 +2,7 @@
 
 &nbsp;
 <div id="header" align="center">
-  <img src="https://github.com/Jack-Development/SuperMarioBros-CSharp-Remake/blob/main/Resources/logo.png" width="300"/>
+  <img src="https://github.com/nberdy/SuperMarioBros-CSharp-Remake/blob/main/Resources/logo.png" width="300"/>
 </div>
 &nbsp;
 
